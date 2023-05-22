@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Tiwari</h1>
-<h3 align="center">I am frontend developer......🥰</h3>
+<h3 align="center">I am Frontend Developer......🥰</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlhMWZlYjUxYWZkMmM0ZTIyY2JjMGFhZDI2NjM3OTNhMmQ5MjkwNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/lP8xu5t2DLGG045H8F/giphy.gif">
 
 - 💬 Ask me about **Html,css , react js, JavaScript**
